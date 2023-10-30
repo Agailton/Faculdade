@@ -1,0 +1,25 @@
+body {
+    color: blue;
+}
+
+#p1{
+    color: black;   
+}
+
+u.corbrown{
+    color: brown;
+}
+
+b {
+    color: aqua;
+}
+
+p.direita{
+   color: brown; text-align: right; 
+}
+p.centro{
+    text-align: center;
+}
+
+.esquerda{text-align: eft;
+}
